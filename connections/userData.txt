@@ -1,0 +1,10 @@
+NWU1011761;Carl;Banks;NWU1011761@northwestu.ac.za;0894446798;Buyer;8 Bramley Road Fountain Valley Mahikeng 2745;30ef53e7563626a86cea7f4b4085c126
+NWU1011765;Daniel;Thompson;NWU1011765@northwestu.ac.za;0671230415;Seller;15 Pierre House North West University Mahikeng 2745;60fc85b7553226b34ehf9b2b4163c824
+NWU1011762;Stella;McCarthy;NWU1011762@northwestu.ac.za;0670984567;Buyer;2 Matthew House North West University Mahikeng 2745;40ec63e8563726a96cea8f4b5085c137
+NWU1011764;Natasha;Williams;NWU1011764@northwestu.ac.za;0829874512;Seller;403 Maddison Crescent Victoria Gardens Mahikeng 2745;80ef20e57846326a34cbf76b4135a126
+NWU1011763;Samuel;Hicks;NWU1011763@northwestu.ac.za;0714568888;Buyer;5 Matthew House North West University Mahikeng 2745;50eb54e9664626a34chf7f4b4085c126
+NWU1011803;Benjamin;Sanders;NWU1011803@northwestu.ac.za;0612214673;Seller;66 Stacy House North West University Mahikeng 2745;21bf34e0123624b04caf7f4b4085c325
+NWU1011765;Daniel;Thompson;NWU1011765@northwestu.ac.za;0671230415;Buyer;15 Pierre House North West University Mahikeng 2745;60fc85b7553226b34ehf9b2b4163c824
+NWU1011801;Thabo;Mhlanga;NWU1011801@northwestu.ac.za;0723456789;Seller;30 Pine Road Tyger Valley Mahikeng 2745;90ed21e67954356a32cbf86b4135a826
+NWU1011802;Leah;Hendricks;NWU1011802@northwestu.ac.za;0834456671;Seller;275 Harrison Street George Town Mahikeng 2745;40bd63e7253426a76cba7d4c4185c823
+NWU1011711;Lucy;Sin;NWU1011711@northwestu.ac.za;0719523107;Buyer;12 Cosmic Plain North West University Mahikeng 2745;be54443d02972952b72f033f22508941

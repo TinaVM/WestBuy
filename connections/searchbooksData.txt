@@ -1,0 +1,13 @@
+1;Behavioural Finance;Ackert & Deaves;550
+2;Chemical Engineering;J.M. Smith;680
+3;Computer Science;Behroux Ferouhzen;750
+4;Conservation Biology;Richard B. Primack;480
+5;Consumer Behaviour;Leon G. Schiffman;830
+6;Descriptive Accounting;C. Smith;600
+7;Educational Psychology;David Donald;450
+8;Environmental Science;Daniel B. Botkin;800
+9;Financial Accounting Theory;Craig Deegan & Jeffery Unerman;780
+10;Introduction To Physics;Johnson;800
+11;Management Accounting;Will Seal;600
+12;Mineral Science;B. Greene;650
+13;Software Engineering;J. Hennson;580

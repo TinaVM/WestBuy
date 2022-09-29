@@ -1,0 +1,18 @@
+B180900101;South African Constitutional Law In Context (Paperback);De Vos Pierre;2014;Very Good;500;NWU1011761
+B180900102;Kumar and Clarks Clinical Medicine: International Edition (Paperback 9th Revised Edition);Parveen Kumar Michael L. Clark;2016;Good;450;NWU1011762
+B180900103;Personnel Psychology - An Applied Perspective (Paperback, 2nd Edition);M. Coetzee & D. Schreuder;2016;Fair;320;NWU1011763
+B180900104;Information And Communications Technology Law (Paperback, 2nd);D.P. van der Merwe,A. Roos,T. Pistorius,G.T.S. Eiselen,S.S. Nel;2016;Good;340;NWU1011764
+B180900105;Advanced Management Accounting (Paperback);Frank Selto,Tom Groot,Carsten Rhode;2013;Very Good;550;NWU1011765
+B180900106;Behavioural Finance;Ackert & Deaves;2016;Good;550;NWU1011766
+B180900107;Chemical Engineering;J.M. Smith;2017;Fair;680;NWU1011763
+B180900108;Computer Science;Behroux Ferouhzen;2018;Very Good;750;NWU1011764
+B180900109;Conservation Biology;Richard B. Primack;2013;Fair;480;NWU1011762
+B180900110;Consumer Behaviour;Leon G. Schiffman;2011;Very Good;830;NWU1011772
+B180900111;Descriptive Accounting;C. Smith;2010;Good;600;NWU1011764
+B180900112;Educational Psychology;David Donald;2019;Fair;450;NWU1011763
+B180900113;Environmental Science;Daniel B. Botkin;2020;Very Good;800;NWU1011764
+B180900114;Financial Accounting Theory;Craig Deegan & Jeffery Unerman;2017;Good;780;NWU1011793
+B180900115;Introduction To Physics;Johnson;2019;Very Good;800;NWU1011763
+B180900116;Management Accounting;Will Seal;2015;Fair;600;NWU1011761
+B180900117;Mineral Science;B. Greene;2013;650;NWU1011762
+B180900118;Software Engineering;J. Hennson;2012;Good;580;NWU1011764
