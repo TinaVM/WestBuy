@@ -4,7 +4,7 @@ WestBuy is a mock secondhand e-bookstore for the students of the University of N
 Key features of the web application enable students to register and login on the web application, view used textbooks that have been loaded 
 onto the application, view their shopping cart and edit items in the cart and buy a used textbook.
 
-##Dependencies
+## Dependencies
 * Ajax jquery
 * PHP
 * HTML
@@ -12,10 +12,18 @@ onto the application, view their shopping cart and edit items in the cart and bu
 * MySQL
 * JavaScript
 
-### Student Main Functions:
+## Student Main Functions:
 * Browse books with live search feature
 * View books and add them to cart with the options to - Checkout, View past purchases, Continue shopping, remove an item
 * Enter banking details
+
+## Setup
+* Must have WAMP Server or XAMP to run local website.
+* Web application runs on localhost:8080 server.
+1. Create the 'bookstore' database in phpmyadmin
+2. Enter and run 'localhost:8080/WestBuy/connections/db.php' in browser to connect to the database.
+3. Run the 'loadBookStore.php' file that is found in the 'connections' folder in browser to create all the necessary tables for the database. e.g. 'localhost:8080/WestBuy/connections/loadBookStore.php'
+
 
 ## Web Application Walkthrough
 
